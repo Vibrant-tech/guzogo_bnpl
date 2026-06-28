@@ -149,7 +149,7 @@ export default function GuzogoTNPLCalculator() {
               </div>
 
               <h1 className="text-4xl font-black tracking-tight text-[#1E1C67] lg:text-6xl">
-                Guzogo TNPL Financing Calculator
+                Guzogo BNPL MODEL FOR TELEBIRR Financing Calculator
               </h1>
 
               <p className="mt-5 max-w-2xl text-lg text-slate-600">
@@ -158,7 +158,7 @@ export default function GuzogoTNPLCalculator() {
               </p>
             </div>
 
-            <div className="max-w-sm rounded-3xl bg-[#1E1C67] p-6 text-white shadow-[0_18px_45px_rgba(30,28,103,0.10)]">
+            <div className="max-w-sm rounded-3xl bg-[#fff] p-6 text-white shadow-[0_18px_45px_rgba(30,28,103,0.10)]">
               <div className="mb-4 flex items-center gap-3">
                 <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-[#EFC620] text-xl text-[#1E1C67]">
                   💳
